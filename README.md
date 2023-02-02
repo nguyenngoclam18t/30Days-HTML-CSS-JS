@@ -1,5 +1,7 @@
 # 30Days-HTML-CSS-JS
 
+30 ngày thực chiến HTML-CSS-JS cho người mới học
+
 Day 1: Product-Card
 
 Day 2: Profile-Card
