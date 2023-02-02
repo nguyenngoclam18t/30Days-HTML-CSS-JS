@@ -1,0 +1,89 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background-color: #dadada;
+}
+
+.image {
+  width: 22%;
+  height: 200px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+  overflow: hidden;
+}
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: 0.25s;
+}
+.image img:hover {
+  transform: scale(1.2);
+}
+.warapper {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  align-content: center;
+}
+.gallery {
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+  opacity: 0;
+  transform: scale(0.8);
+  transition: 0.25s;
+}
+.gallery-inner {
+  width: 70%;
+  height: 70%;
+}
+.gallery-inner img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.control {
+  position: absolute;
+  color: #fff;
+  cursor: pointer;
+  font-size: 50px;
+}
+.prev {
+  left: 15px;
+}
+.next {
+  right: 15px;
+}
+.close-icon {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 35px;
+}
+.hide {
+  display: none;
+}
+.show {
+  opacity: 1;
+  pointer-events: auto;
+  transform: scale(1);
+}
