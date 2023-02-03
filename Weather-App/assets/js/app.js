@@ -25,7 +25,6 @@ async function getWeather(city) {
   let api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=1e6a47de4afa7d8a15b78acbce467699`;
   let response = await fetch(api);
   let data = await response.json();
-  console.log(data);
   changeWeather(data);
 }
 getWeather("ha noi");
