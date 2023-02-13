@@ -1,8 +1,9 @@
 # 30Days-HTML-CSS-JS
 
 30 ngày thực chiến HTML-CSS-JS cho người mới học
-|Day |Command | Description |
-| ---|--- | --- |
+|Day |Titel | Link |
+| ------------- | ------------- |-------------|
+
 
 |Day 1| Product-Card | [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Product-Card) |
 
