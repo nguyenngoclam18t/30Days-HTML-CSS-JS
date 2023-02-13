@@ -3,10 +3,7 @@
 30 ngày thực chiến HTML-CSS-JS cho người mới học
 |Day |Titel | Link |
 | :-------------: | :-------------: | :-------------: |
-
-
 | Day 1 | Product-Card | [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Product-Card) |
-
 |Day 2| Profile-Card|  [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Profile-Card) |
 
 Day 3: Modal_Popup [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Modal_Popup) 
