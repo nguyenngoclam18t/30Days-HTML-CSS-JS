@@ -2,7 +2,7 @@
 
 30 ngày thực chiến HTML-CSS-JS cho người mới học
 
-Day 1: (https://www.google.com "Google's Homepage") https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Product-Card
+Day 1:  https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Product-Card
 
 Day 2: https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Profile-Card
 
