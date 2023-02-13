@@ -5,7 +5,7 @@
 | ------------- | ------------- |-------------|
 
 
-|Day 1| Product-Card | [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Product-Card) |
+| Day 1 | Product-Card | [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Product-Card) |
 
 |Day 2| Profile-Card|  [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Profile-Card) |
 
