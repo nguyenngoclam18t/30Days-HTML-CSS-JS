@@ -12,3 +12,4 @@
 |Day 7| Search-Tags | [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Search-Tags) |
 |Day 8| Validate-form| [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Validate-form) |
 |Day 9| Weather-App| [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Weather-App ) |
+|Day 10|Todo-List |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Todo-List ) |
