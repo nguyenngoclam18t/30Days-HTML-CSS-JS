@@ -14,3 +14,4 @@
 |Day 9| Weather-App| [Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Weather-App ) |
 |Day 10|Todo-List |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Todo-List ) |
 |Day 11|Toast-Notification |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Toast-Notification ) |
+|Day 12|Weather-App |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Weather-App ) |
