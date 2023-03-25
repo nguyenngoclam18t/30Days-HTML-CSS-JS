@@ -8,7 +8,26 @@ function changeWeather(Data) {
   let visibility = document.querySelector(".visibility span");
   let wind = document.querySelector(".wind span");
   let cloud = document.querySelector(".cloud span");
-  time.innerText = new Date().toLocaleString();
+  let localTime = new Date(new Date().getTime() + Data.timezone * 1000);
+  let localHours = localTime.getUTCHours();
+  let localMinutes = localTime.getUTCMinutes();
+  let localSeconds = localTime.getUTCSeconds();
+  let localDate = localTime.getUTCDate();
+  let localMonth = localTime.getUTCMonth() + 1;
+  let localYear = localTime.getUTCFullYear();
+
+  time.innerText =
+    localMonth +
+    "/" +
+    localDate +
+    "/" +
+    localYear +
+    " , " +
+    localHours +
+    ":" +
+    localMinutes +
+    ":" +
+    localSeconds;
   name.innerText = Data.name + " , " + Data.sys.country;
   temperature.innerText = Math.round(Data.main.temp - 273.15);
   shortDesc.innerText = Data.weather[0].main;
@@ -25,7 +44,9 @@ async function getWeather(city) {
   let api = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=1e6a47de4afa7d8a15b78acbce467699`;
   let response = await fetch(api);
   let data = await response.json();
+  console.log(data);
   changeWeather(data);
+  console.log(data);
 }
 getWeather("ha noi");
 input.addEventListener("keydown", (e) => {
