@@ -15,3 +15,9 @@
 |Day 10|Todo-List |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Todo-List ) |
 |Day 11|Toast-Notification |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Toast-Notification ) |
 |Day 12|Weather-App |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/Weather-App ) |
+|Day 13|counter-up |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/counter-up ) |
+|Day 14|drag-and-drop |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/drag-and-drop ) |
+|Day 15|live-product-filter|[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/live-product-filter ) |
+|Day 16|preview-image |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/preview-image ) |
+|Day 17|show-on-scroll |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/show-on-scroll ) |
+|Day 18|slideshow |[Live Demo](https://nguyenngoclam18t.github.io/30Days-HTML-CSS-JS/slideshow ) |
